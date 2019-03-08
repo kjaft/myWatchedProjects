@@ -12,27 +12,53 @@ Just to have a categorized overwiew of my projects of my interest
 
 # <a name="common"></a>Allgemein
 * [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools: https://developers.google.com/optimization/
+* [cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
+* [GSL](https://github.com/Microsoft/GSL) - Guidelines Support Library
 
-# <a name="cpp"></a>C++
-* [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
+# <a name="cpp_3d"></a>C++ 3D
+* [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK) - Radeon Rays is ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
+* [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+* [brdf](https://github.com/wdas/brdf) - BRDF Explorer
+* [meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
+* [Open3D](https://github.com/IntelVCL/Open3D) - Open3D: A Modern Library for 3D Data Processing
+
+# <a name="cpp_rt_graphics"></a>C++ RT Graphics
+* [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content.
+* [UE4ProceduralMesh](https://github.com/SRombauts/UE4ProceduralMesh) - UE4.7 Procedural Mesh Generation plugin
+* [UE4ActorSaveLoad](https://github.com/shinaka/UE4ActorSaveLoad) - An generic Actor Save/Load system that uses UE4's built in Actor Serialization
+* [TextAsset](https://github.com/ue4plugins/TextAsset) - Unreal Engine 4 plug-in that adds a text asset and editor for personal notes.
+* [ue4-fbx-importer](https://github.com/LaP0573/ue4-fbx-importer) - None
+* [ProceduralMeshes](https://github.com/SiggiG/ProceduralMeshes) - Plugin with example procedural mesh actors and components
+* [Unreal-Engine-4-Scripting-with-CPlusPlus-Cookbook](https://github.com/sunithshetty/Unreal-Engine-4-Scripting-with-CPlusPlus-Cookbook) - Unreal Engine 4 Scripting with C++ Cookbook, by Packt
+* [StoryGraph](https://github.com/Deema35/StoryGraph) - Quest and dialog editor for UnrealEngine.
+* [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
+* [RuntimeMeshLoader](https://github.com/GameInstitute/RuntimeMeshLoader) - RuntimeMeshLoader for UE4
+* [Unreal-Polygonal-Map-Gen](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen) - An Unreal Engine 4 implementation of the Polygonal Map Generator for generating islands found at http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
+* [poly-toolkit-unreal](https://github.com/googlevr/poly-toolkit-unreal) - Poly Toolkit for Unreal
+
+# <a name="cpp_postpro"></a>C++ Postpro
 * [duke](https://github.com/mikrosimage/duke) - Duke is an opensource high resolution image and sequence viewer dedicated to visual effect and post production companies.
 * [OpenColorIO](https://github.com/fnordware/OpenColorIO) - A color management framework for visual effects and animation.
 * [openexr](https://github.com/openexr/openexr) - OpenEXR is a high dynamic-range (HDR) image file format developed by Industrial Light & Magic for use in computer imaging applications
 * [Natron](https://github.com/MrKepzie/Natron) - Open-source compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 * [SequenceParsing](https://github.com/MrKepzie/SequenceParsing) - Small utility functions to help parsing sequences of image files. See the README for more infos.
-* [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
 * [tinyexr](https://github.com/syoyo/tinyexr) - Tiny OpenEXR image loader/saver library
+* [ProEXR](https://github.com/fnordware/ProEXR) - ProEXR plug-ins for Photoshop and After Effects
+* [pipeline](https://github.com/nvpro-pipeline/pipeline) - nvpro-pipeline is a research rendering pipeline
+
+# <a name="cpp_improc"></a>C++ Image Processing
+* [vpp](https://github.com/matt-42/vpp) - Video++, a C++14 high performance video and image processing library.
+* [logoDetect](https://github.com/remdex/logoDetect) - Logo detection utility. Tells does provided logo is on image. Can be used to find image on image also.
+
+# <a name="cpp_test"></a>C++ Testing
+* [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+
+* [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 * [SENSITIVE_COUTURE](https://github.com/gabriel-tandil/SENSITIVE_COUTURE) - Sensitive Couture for Interactive Garment Modeling and Editing
 * [opencloth](https://github.com/mmmovania/opencloth) - A collection of source codes implementing cloth simulation algorithms in OpenGL
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 * [pybind11_with_MSVC_2017](https://github.com/chhenning/pybind11_with_MSVC_2017) - Examples of using pybind11 with Visual Studio 2017 and cmake 
-* [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK) - Radeon Rays is ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
-* [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
-* [ProEXR](https://github.com/fnordware/ProEXR) - ProEXR plug-ins for Photoshop and After Effects
-* [Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-* [cppitertools](https://github.com/ryanhaining/cppitertools) - Implementation of python itertools and builtin iteration functions for C++17
-* [pipeline](https://github.com/nvpro-pipeline/pipeline) - nvpro-pipeline is a research rendering pipeline
 * [metal](https://github.com/brunocodutra/metal) - Love template metaprogramming
 * [yocto-gl](https://github.com/xelatihy/yocto-gl) - Yocto/GL: Tiny C++ Libraries for Data-Driven Physically-based Graphics
 * [RadeonProRender-Baikal](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRender-Baikal) - None
@@ -44,9 +70,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [shaderc](https://github.com/google/shaderc) - A collection of tools, libraries, and tests for Vulkan shader compilation.
 * [cppan](https://github.com/cppan/cppan) - Project has evolved into Software Network: https://github.com/SoftwareNetwork/sw    CPPAN Website: https://cppan.org/
 * [SPIRV-Cross](https://github.com/KhronosGroup/SPIRV-Cross) - SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.
-* [RuntimeMeshComponent](https://github.com/Koderz/RuntimeMeshComponent) - Unreal Engine 4 plugin component for rendering runtime generated content.
 * [vray_al_surface](https://github.com/ChaosGroup/vray_al_surface) - A V-Ray port of the alSurface shader
-* [brdf](https://github.com/wdas/brdf) - BRDF Explorer
 * [skia](https://github.com/google/skia) - Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
 * [cvwrap](https://github.com/chadmv/cvwrap) - A Maya wrap deformer that is faster than Maya's wrap deformer, can be rebounded, has a GPU implementation, and supports inverted front of chain blend shapes.
 * [sodacad](https://github.com/melanes/sodacad) - sodaCAD is an enterprise level 2-D vector based drafting program used by fashion designers and manufacturers to create and grade patterns used in the apparel industry. 
@@ -57,16 +81,6 @@ Just to have a categorized overwiew of my projects of my interest
 * [dlib](https://github.com/davisking/dlib) - A toolkit for making real world machine learning and data analysis applications in C++
 * [VideoCore-Inactive](https://github.com/jgh-/VideoCore-Inactive) - *No longer in development* At some point I will be publishing a new system
 * [cpprestsdk](https://github.com/Microsoft/cpprestsdk) - The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-* [UE4ProceduralMesh](https://github.com/SRombauts/UE4ProceduralMesh) - UE4.7 Procedural Mesh Generation plugin
-* [UE4ActorSaveLoad](https://github.com/shinaka/UE4ActorSaveLoad) - An generic Actor Save/Load system that uses UE4's built in Actor Serialization
-* [GSL](https://github.com/Microsoft/GSL) - Guidelines Support Library
-* [TextAsset](https://github.com/ue4plugins/TextAsset) - Unreal Engine 4 plug-in that adds a text asset and editor for personal notes.
-* [ue4-fbx-importer](https://github.com/LaP0573/ue4-fbx-importer) - None
-* [ProceduralMeshes](https://github.com/SiggiG/ProceduralMeshes) - Plugin with example procedural mesh actors and components
-* [Unreal-Engine-4-Scripting-with-CPlusPlus-Cookbook](https://github.com/sunithshetty/Unreal-Engine-4-Scripting-with-CPlusPlus-Cookbook) - Unreal Engine 4 Scripting with C++ Cookbook, by Packt
-* [StoryGraph](https://github.com/Deema35/StoryGraph) - Quest and dialog editor for UnrealEngine.
-* [StreetMap](https://github.com/ue4plugins/StreetMap) - Import OpenStreetMap data into Unreal Engine 4
-* [RuntimeMeshLoader](https://github.com/GameInstitute/RuntimeMeshLoader) - RuntimeMeshLoader for UE4
 * [appleseed](https://github.com/appleseedhq/appleseed) - A modern open source rendering engine for animation and visual effects
 * [pystring](https://github.com/imageworks/pystring) - C++ functions matching the interface and behavior of python string methods with std::string
 * [RuntimeCompiledCPlusPlus](https://github.com/RuntimeCompiledCPlusPlus/RuntimeCompiledCPlusPlus) - Change C++ code at runtime
@@ -80,9 +94,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [OpenCL-CLHPP](https://github.com/KhronosGroup/OpenCL-CLHPP) - Khronos OpenCL-CLHPP 
 * [vcglib](https://github.com/cnr-isti-vclab/vcglib) - The VCGlib is a C++, templated, no dependency, library for manipulation, processing and cleaning of triangle meshes
 * [ExtraCamWindow](https://github.com/chaosgrid/ExtraCamWindow) - A simple Unreal Engine 4 plugin that allows to have extra game windows with their own camera viewpoints.
-* [meshlab](https://github.com/cnr-isti-vclab/meshlab) - The open source mesh processing system
 * [MaterialX](https://github.com/materialx/MaterialX) - MaterialX is an open standard for transfer of rich material and look-development content between applications and renderers.
-* [poly-toolkit-unreal](https://github.com/googlevr/poly-toolkit-unreal) - Poly Toolkit for Unreal
 * [seurat](https://github.com/googlevr/seurat) - Seurat is a scene simplification technology designed to process very complex 3D scenes into a representation that renders efficiently on mobile 6DoF VR systems.
 * [ispc](https://github.com/ispc/ispc) - Intel SPMD Program Compiler
 * [imread](https://github.com/luispedro/imread) - Read images to numpy arrays
@@ -92,7 +104,6 @@ Just to have a categorized overwiew of my projects of my interest
 * [MITIE](https://github.com/mit-nlp/MITIE) - MITIE: library and tools for information extraction
 * [artoolkit5](https://github.com/artoolkit/artoolkit5) - ARToolKit v5.x
 * [kmplayer](https://github.com/KDE/kmplayer) - KPart based video player plugin
-* [Unreal-Polygonal-Map-Gen](https://github.com/Jay2645/Unreal-Polygonal-Map-Gen) - An Unreal Engine 4 implementation of the Polygonal Map Generator for generating islands found at http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/
 * [JPEGsnoop](https://github.com/ImpulseAdventure/JPEGsnoop) - JPEGsnoop: JPEG decoder and detailed analysis
 * [Windows-appsample-photo-editor](https://github.com/Microsoft/Windows-appsample-photo-editor) - Photo Editor is a UWP photo viewing and editing sample that highlights development with C++/WinRT.
 * [zapcc](https://github.com/yrnkrn/zapcc) - zapcc is a caching C++ compiler based on clang, designed to perform faster compilations
@@ -122,7 +133,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [corrade](https://github.com/mosra/corrade) - C++11/C++14 multiplatform utility library
 * [PhotoKit](https://github.com/wang-bin/PhotoKit) - Photo browser with 3D effects, slide effects and animations. Share to weibo is supported
 * [fmt](https://github.com/fmtlib/fmt) - A modern formatting library
-* [logoDetect](https://github.com/remdex/logoDetect) - Logo detection utility. Tells does provided logo is on image. Can be used to find image on image also.
+
 * [IncludeOS](https://github.com/hioa-cs/IncludeOS) - A minimal, resource efficient unikernel for cloud services
 * [seastar](https://github.com/scylladb/seastar) - High performance server-side application framework
 * [cling](https://github.com/root-project/cling) - The cling C++ interpreter
@@ -164,7 +175,6 @@ Just to have a categorized overwiew of my projects of my interest
 * [lopper](https://github.com/dropbox/lopper) - A lightweight C++ framework for vectorizing image-processing code
 * [easy_profiler](https://github.com/yse/easy_profiler) - Lightweight profiler library for c++
 * [xsimd](https://github.com/QuantStack/xsimd) - Modern, portable C++ wrappers for SIMD intrinsics and parallelized, optimized math implementations (SSE, AVX, NEON, AVX512)
-* [Open3D](https://github.com/IntelVCL/Open3D) - Open3D: A Modern Library for 3D Data Processing
 * [thread-pool](https://github.com/mtrebi/thread-pool) - Thread pool implementation using c++11 threads 
 * [xeus-cling](https://github.com/QuantStack/xeus-cling) - Jupyter kernel for the C++ programming language
 * [NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
