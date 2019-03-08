@@ -168,6 +168,8 @@ Just to have a categorized overwiew of my projects of my interest
 * [xeus-cling](https://github.com/QuantStack/xeus-cling) - Jupyter kernel for the C++ programming language
 * [NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 * [PTL](https://github.com/jrmadsen/PTL) - Parallel Tasking Library (PTL) - Lightweight C++11 mutilthreading tasking system featuring thread-pool, task-groups, and lock-free task queue
+ * [tapkee](https://github.com/lisitsyn/tapkee) - A flexible and efficient С++ template library for dimension reduction http://tapkee.lisitsyn.me
+  
 # Python
 * [OpenRenderManagement](https://github.com/mikrosimage/OpenRenderManagement) - Dispatcher Puli
 * [QColorscheme](https://github.com/instinct-vfx/QColorscheme) - QColorscheme
@@ -260,6 +262,8 @@ Just to have a categorized overwiew of my projects of my interest
 * [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 * [CS231n-2017-Summary](https://github.com/mbadry1/CS231n-2017-Summary) - After watching all the videos of the famous Standford's CS231n course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me.
+* [cpp2py](https://github.com/TRIQS/cpp2py) - Reflection tools based on clang 
+
 # JavaScript
 * [generator-core](https://github.com/adobe-photoshop/generator-core) - Core Node.js library for Adobe Photoshop CC's Generator extensibility layer
 * [dat.gui](https://github.com/dataarts/dat.gui) - dat.gui is a lightweight controller library for JavaScript.
@@ -287,8 +291,11 @@ Just to have a categorized overwiew of my projects of my interest
 * [logo-o-matic](https://github.com/codepo8/logo-o-matic) - Create C-64 style logos with Canvas
 * [pluralsight-vscode-samples](https://github.com/johnpapa/pluralsight-vscode-samples) - VS Code samples for Pluralsight course on Code
 * [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
+* [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API 
+
 # Mathematica
 * [FBX-glTF](https://github.com/cyrillef/FBX-glTF) - FBX glTF importer/exporter plug-in and converter.
+
 # HTML
 * [diy-layout-creator](https://github.com/bancika/diy-layout-creator) - multi platform circuit layout and schematic drawing tool
 * [glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
@@ -301,11 +308,13 @@ Just to have a categorized overwiew of my projects of my interest
 * [SpotMyBackup](https://github.com/secuvera/SpotMyBackup) - Backup and Restore your Spotify Playlists and "My Music"
 * [Firefox-Bookmark-Tools](https://github.com/josuecb/Firefox-Bookmark-Tools) - This python library will help you to parse your exported html bookmarked file. it has many tools like check duplicated links and erase it or convert it into JSON file and other tools.
 * [ionic](https://github.com/ionic-team/ionic) - Build amazing native and progressive web apps with open web technologies. One app running on everything 🎉
+
 # Shell
 * [caffe2](https://github.com/facebookarchive/caffe2) - Caffe2 is a lightweight, modular, and scalable deep learning framework.
 * [makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script.
 * [media-autobuild_suite](https://github.com/jb-alvarado/media-autobuild_suite) - This Windows Batchscript is for setup a compiler environment for building ffmpeg and other media tools under Windows.
 * [ffmpeg_vagrant](https://github.com/ggovindan/ffmpeg_vagrant) - A vagrant for running applications that use FFMPEG libraries. This builds the ffmpeg and its related libraries as `.so` files for dynamic linking
+
 # C
 * [AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) - The Advanced Media Framework (AMF) SDK provides developers with optimal access to AMD devices for multimedia processing
 * [emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-Web Compiler
@@ -331,11 +340,14 @@ Just to have a categorized overwiew of my projects of my interest
 * [gmic-community](https://github.com/dtschump/gmic-community) - Community contributions to the G'MIC software
 * [FuFengprint-Matcher](https://github.com/ethiery/FuFengprint-Matcher) - An efficient C implementation of the Minutia-Based fingerprint matching algorithm proposed by Xiang-Fu and Jufu Feng in "Minutia Tensor Matrix: A New Strategy for Fingerprint Matching" 2015 
 * [numcpp](https://github.com/tknopp/numcpp) - NumCpp is a high performance numerical C++ library that provides a simple Numpy/Matlab like interface
+
 # CMake
 * [vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK
 * [vcpkg](https://github.com/Microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
 # WebAssembly
 * [binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly, in C++
+
 # TypeScript
 * [hyper3d](https://github.com/Hyper3D/hyper3d) - High-end WebGL renderer for three.js
 * [turbulenz_engine](https://github.com/turbulenz/turbulenz_engine) - Turbulenz is a modular 3D and 2D game framework for making HTML5 powered games for browsers, desktops and mobile devices.
@@ -344,6 +356,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [ionic-dark-grey-theme](https://github.com/pliablepixels/ionic-dark-grey-theme) - Dark Theme for ionic2 (ionic-conference-app as example)
 * [ionic-pwa-toolkit](https://github.com/ionic-team/ionic-pwa-toolkit) - Build lightning fast Progressive Web Apps with zero config and best practices built-in. Go from zero to production ready with Ionic and Stencil (Web Components).
 * [ionic-split-pane-demo](https://github.com/boradakash/ionic-split-pane-demo) - None
+
 # None
 * [hyper3d-3](https://github.com/Hyper3D/hyper3d-3) - New Hyper3D
 * [glTF-Tutorials](https://github.com/moneimne/glTF-Tutorials) - glTF Tutorials
@@ -358,24 +371,30 @@ Just to have a categorized overwiew of my projects of my interest
 * [Qt-Color-Widgets](https://github.com/mbasaglia/Qt-Color-Widgets) - Color wheel widget and dialog for Qt
 * [ffmpeg-amia-wiki](https://github.com/amiaopensource/ffmpeg-amia-wiki) - AMIA/DLF Hack day FFmpeg documentation, scripts and recipes geared toward archivists.
 * [myWatchedProjects](https://github.com/kjaft/myWatchedProjects) - Just to have a categorized overwiew of my projects of my interest
+
 # Lua
 * [openface](https://github.com/cmusatyalab/openface) - Face recognition with deep neural networks.
 * [scenemap](https://github.com/mxh/scenemap) - Code repository for the paper "Scene Structure Inference through Scene Map Estimation"
 * [torchnet](https://github.com/torchnet/torchnet) - Torch on steroids
 * [deepmask](https://github.com/facebookresearch/deepmask) - Torch implementation of DeepMask and SharpMask
 * [multipathnet](https://github.com/facebookresearch/multipathnet) - A Torch implementation of the object detection network from "A MultiPath Network for Object Detection" (https://arxiv.org/abs/1604.02135)
+
 # C#
 * [DeLightingTool](https://github.com/Unity-Technologies/DeLightingTool) - De-Lighting tool
 * [ue4-static-plugin](https://github.com/shadowmint/ue4-static-plugin) - A sample static plugin for the unreal engine that imports a C++ and rust library and links them statically.
 * [open3mod](https://github.com/acgessler/open3mod) - Open 3D Model Viewer - A quick and powerful 3D model viewer
 * [UnityCsReference](https://github.com/Unity-Technologies/UnityCsReference) - Unity C# reference source code
 * [AlignAssignments](https://github.com/NoahRic/AlignAssignments) - A Visual Studio 2010 extension that adds a command for aligning assignment expressions.
+
 # Fortran
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS) - OpenBLAS is an optimized BLAS library based on GotoBLAS2 1.13 BSD version. 
+
 # Perl
 * [Panotools-Script](https://github.com/gitpan/Panotools-Script) - Read-only release history for Panotools-Script
+
 # Eagle
 * [eurorack](https://github.com/barkertrax/eurorack) - Eurorack projects
+
 # Jupyter Notebook
 * [age-gender-estimation](https://github.com/yu4u/age-gender-estimation) - Keras implementation of a CNN network for age and gender estimation
 * [deep-image-prior](https://github.com/DmitryUlyanov/deep-image-prior) - Image restoration with neural networks but without learning.
@@ -383,14 +402,19 @@ Just to have a categorized overwiew of my projects of my interest
 * [Skin-Extraction-from-Image-and-Finding-Dominant-Color](https://github.com/octalpixel/Skin-Extraction-from-Image-and-Finding-Dominant-Color) - Project is an implementation of skin segmentation using OpenCV and dominant color extraction using SciKit-Learn
 * [automatic-watermark-detection](https://github.com/rohitrango/automatic-watermark-detection) - Project for Digital Image Processing
 * [pycon2017-optimizing-pandas](https://github.com/s-heisler/pycon2017-optimizing-pandas) - Materials for PyCon 2017 presentation on optimizing Pandas code
+
 # Dart
 * [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful mobile apps.
+
 # TeX
 * [joymachine-public](https://github.com/trentpolack/joymachine-public) - All sorts of random publicly-available information, assets, scripts, and more as we (Joy Machine) work on our projects.
+
 # Visual Basic
 * [Maya-Net-Wizards](https://github.com/ADN-DevTech/Maya-Net-Wizards) - Maya .Net Wizards for Visual Studio
+
 # Rust
 * [raster](https://github.com/kosinix/raster) - An image processing library for Rust
+
 # Matlab
 * [edmbox](https://github.com/LCAV/edmbox) - Matlab routines for Euclidean distance matrices
 * [Projects](https://github.com/RoyiAvital/Projects) - Various Small Projects on Various Subjects
