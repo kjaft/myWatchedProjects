@@ -13,6 +13,9 @@ Just to have a categorized overwiew of my projects of my interest
 
 ## Python 3D
 
+# Allgemein
+* [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools: https://developers.google.com/optimization/
+
 # C++
 * [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 * [duke](https://github.com/mikrosimage/duke) - Duke is an opensource high resolution image and sequence viewer dedicated to visual effect and post production companies.
@@ -26,6 +29,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [opencloth](https://github.com/mmmovania/opencloth) - A collection of source codes implementing cloth simulation algorithms in OpenGL
 * [GridFluidSim3D](https://github.com/rlguy/GridFluidSim3D) - A PIC/FLIP fluid simulation based on the methods found in Robert Bridson's "Fluid Simulation for Computer Graphics"
 * [pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
+* [pybind11_with_MSVC_2017](https://github.com/chhenning/pybind11_with_MSVC_2017) - Examples of using pybind11 with Visual Studio 2017 and cmake 
 * [RadeonRays_SDK](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonRays_SDK) - Radeon Rays is ray intersection acceleration library for hardware and software multiplatforms using CPU and GPU
 * [draco](https://github.com/google/draco) - Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 * [ProEXR](https://github.com/fnordware/ProEXR) - ProEXR plug-ins for Photoshop and After Effects
@@ -169,6 +173,7 @@ Just to have a categorized overwiew of my projects of my interest
 * [NumCpp](https://github.com/dpilger26/NumCpp) - C++ implementation of the Python Numpy library
 * [PTL](https://github.com/jrmadsen/PTL) - Parallel Tasking Library (PTL) - Lightweight C++11 mutilthreading tasking system featuring thread-pool, task-groups, and lock-free task queue
  * [tapkee](https://github.com/lisitsyn/tapkee) - A flexible and efficient С++ template library for dimension reduction http://tapkee.lisitsyn.me
+  * [ftracer](https://github.com/finaldie/ftracer) - A toolkit for tracing C/C++ program, to generate a time-line based call graph. 
   
 # Python
 * [OpenRenderManagement](https://github.com/mikrosimage/OpenRenderManagement) - Dispatcher Puli
@@ -262,7 +267,8 @@ Just to have a categorized overwiew of my projects of my interest
 * [python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 * [pdir2](https://github.com/laike9m/pdir2) - Pretty dir() printing with joy:beer:
 * [CS231n-2017-Summary](https://github.com/mbadry1/CS231n-2017-Summary) - After watching all the videos of the famous Standford's CS231n course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to know about it. I've skipped some contents in some lectures as it wasn't important to me.
-* [cpp2py](https://github.com/TRIQS/cpp2py) - Reflection tools based on clang 
+* [cpp2py](https://github.com/TRIQS/cpp2py) - Reflection tools based on clang
+* [xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON 
 
 # JavaScript
 * [generator-core](https://github.com/adobe-photoshop/generator-core) - Core Node.js library for Adobe Photoshop CC's Generator extensibility layer
