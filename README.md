@@ -1,22 +1,19 @@
 # myWatchedProjects
 Just to have a categorized overwiew of my projects of my interest
 
-## C++ General
+* [Common](#common)
+* C++ 
+  * General
+  * Image Processing
+  * 3D Processing
+* Python
+  * Image Processing
+  * 3D
 
-## C++ Image Processing
-
-## C++ 3D Processing
-
-## Python
-
-## Python Image Processing
-
-## Python 3D
-
-# Allgemein
+# <a name="common"></a>Allgemein
 * [or-tools](https://github.com/google/or-tools) - Google's Operations Research tools: https://developers.google.com/optimization/
 
-# C++
+# <a name="cpp"></a>C++
 * [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization
 * [duke](https://github.com/mikrosimage/duke) - Duke is an opensource high resolution image and sequence viewer dedicated to visual effect and post production companies.
 * [OpenColorIO](https://github.com/fnordware/OpenColorIO) - A color management framework for visual effects and animation.
